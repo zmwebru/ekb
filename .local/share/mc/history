@@ -1,0 +1,10 @@
+[inpmc.fm.mkdir]
+0=forgit
+
+[input-def]
+0=*
+
+[input2]
+0=/home/e/ekbmetr/
+1=/home/e/ekbmetr/forgit/
+2=/home/e/ekbmetr/forgit

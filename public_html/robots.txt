@@ -1,0 +1,15 @@
+User-agent: *
+
+Disallow: /yupe/backend*
+Disallow: /cgi-sys/
+Disallow: /cgi-bin/
+Disallow: /schetchik-holodnoy-vody-lk-15
+Disallow: /teploschetchik-avektra-tsu-15
+Disallow: /teploschetchik-teplovodohran-pulsar
+Disallow: /teploschetchik-karat-kompakt
+Disallow: /teploschetchik-sanext-minol-minocal
+Disallow: /teploschetchik-danfoss-sonometer-1100
+
+
+Host: https://poverka-pro.ru/
+Sitemap: https://poverka-pro.ru/sitemap.xml
